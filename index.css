@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@400;700&display=swap');
+
+body{
+    background-image: url("cal2.jpg");
+    background-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Shantell Sans', cursive;
+    font-size: 55px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    
+    font-size: 80px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+form{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 25px;
+    margin-top: 110px;
+    margin-bottom: 30px;
+}
+div{
+    margin-top: 100px;
+    margin-bottom: auto;
+}
+button {
+    font-family: 'Shantell Sans', cursive;
+    font-size: large;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: beige;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Shantell Sans', cursive;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color:  rgba(6, 6, 6, 0.858);
+}
+#add-btn {
+    background:  rgba(41, 8, 11, 0.858);
+}
+#pro-btn {
+    background:  rgba(41, 8, 11, 0.858);
+}
+
+#div-btn{
+    background:  rgba(41, 8, 11, 0.858);
+}
+ 
+#sub-btn{
+    background: rgba(41, 8, 11, 0.858);
+}
+#num1{
+    background: rgb(205, 165, 157);
+}
+#num2{
+    background: rgb(205, 165, 157);
+}
